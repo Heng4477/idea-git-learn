@@ -14,5 +14,6 @@ public class GitTest {
         System.out.println("hot-fix");
         System.out.println("hot-fix");
         System.out.println("master 冲突");
+        System.out.println("hot-fix 冲突");
     }
 }
