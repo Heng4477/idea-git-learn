@@ -16,5 +16,6 @@ public class GitTest {
         System.out.println("master 冲突");
         System.out.println("hot-fix 冲突");
         System.out.println("本地库修改");
+        System.out.println("远程库修改");
     }
 }
